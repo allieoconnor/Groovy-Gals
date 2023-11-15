@@ -1,0 +1,141 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&family=Space+Mono&display=swap');
+                   
+
+body {
+background-color: #F9F5F2;
+}
+nav a {
+    color: black;
+    text-decoration: none;
+    font-size: 25px;
+    font-family: sans-serif;
+    margin: 10px; 
+    padding: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-family: 'Poppins', sans-serif;
+
+}
+nav {
+    padding: 40px;
+    position: relative;
+    width: 100%;
+}
+
+nav :hover {
+color: #F9F5F2;
+}
+
+.logo {
+    width: 250px;
+    background-color: #E8D8C7;
+    padding-right: 70px;
+}
+
+header{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    background-color: #E8D8C7;
+}
+
+.logo:hover{
+    width: 255px;
+}
+
+.row {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    max-width: 100%;
+}
+
+.sitting {
+       width: 50%;
+       padding-right: 2%;
+}
+.painting {
+    width: 20%;
+}
+
+.sclupture {
+    width: 20%;
+}
+
+h1 {
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    color: #7c2776;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    
+}
+
+.Explore {
+    font-family: 'Poppins', sans-serif;
+    padding-left: 40px;
+    font-size: 25px;
+    padding-top: 65px;
+}
+
+.row2 {
+    display: flex;
+    max-width: 100%;
+    align-items: baseline;
+}
+
+.sara1 {
+   width: 100%;
+}
+
+.brooke1 {
+    width: 100%;
+}
+
+.riley1 {
+    width: 100%;
+}
+
+figcaption {
+    font-family: 'Poppins';
+    font-size: 18px;  
+    padding-top: 2%;
+    padding-bottom: 6%;
+}
+
+.row3 {
+    display: flex;
+    max-width: 100%;
+    align-items: baseline;
+}
+.cat1 {
+    width: 100%;
+}
+
+.allie1 {
+    width: 100%;
+}
+
+.sara2
+{
+    width: 100%;
+}
+
+.row4{
+    display: flex;
+    max-width: 100%;
+    align-items: baseline;
+}
+
+.gwen1{
+    width: 100%;
+}
+
+.kenna1{
+    width: 100%;
+}
+
+.allie2 {
+    width: 100%;
+}
