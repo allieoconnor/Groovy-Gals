@@ -186,6 +186,7 @@ padding-left: 20%;
     align-items: center;
     justify-content: space-around;
     max-width: 90%;
+    padding-top: 7%;
 }
 
 .artiststatement {
@@ -198,6 +199,7 @@ font-size: 16pt;
     display: flex;
     align-items: center;
     max-width: 100%;
+    
 }
 
 .accountimg {
