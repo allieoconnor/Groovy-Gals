@@ -1,6 +1,6 @@
 :root {
     --header-height: 130px;
-    --menu-bg: #9ae9cf;
+    --menu-bg: #E8D8C7;
 }
 
 body {
@@ -22,7 +22,7 @@ header {
 }
 
 header img {
-    padding: 20px;
+    padding: 0 20px;
 }
 
 nav {
@@ -54,12 +54,15 @@ nav a {
 }
 
 
-@media (min-width: 640px) {
+@media (min-width: 863px) {
     nav {
         flex-direction: row;
         height: var(--header-height);
         align-items: center;
         padding-right:20px;
+        justify-content: flex-end;
+        position: relative;
+        top: 0;
     }
 
     nav a {
@@ -80,6 +83,10 @@ nav a {
 
     .btn-toggle-menu {
         visibility: hidden;
+    }
+
+    .right {
+        display: none;
     }
 
 }
