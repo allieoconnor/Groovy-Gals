@@ -23,7 +23,9 @@ nav {
     width: 100%;
 }
 
-
+nav :hover {
+    color: #F9F5F2;
+}
 
 .logo {
     width: 250px;
@@ -36,10 +38,6 @@ header{
     width: 100%;
     justify-content: space-between;
     background-color: #E8D8C7;
-}
-
-.logo:hover{
-    background-color: #F9F5F2
 }
 
 .row {
@@ -211,6 +209,10 @@ font-size: 16pt;
 display: flex;
 margin-left: auto;
 margin-right: auto;
+}
 
+.videotext {
+    font-family: 'poppins';
+    font-size: 16pt;
 }
 
