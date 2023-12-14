@@ -56,7 +56,7 @@ h1 {
     color: #7c2776;
     padding-top: 15px;
     padding-bottom: 15px;
-    
+    padding-top: 10%;
 }
 
 .Explore {
@@ -204,11 +204,14 @@ font-size: 16pt;
 display: flex;
 margin-left: auto;
 margin-right: auto;
+padding: 5%;
+
 }
 
 .videotext {
     font-family: 'poppins';
     font-size: 16pt;
+    padding-top: 7%;
 }
 
 @media (min-width: 1200px) {
