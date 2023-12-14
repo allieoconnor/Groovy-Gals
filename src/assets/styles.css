@@ -16,6 +16,8 @@ main {
 nav a {
     color: black;
     font-size: 25px;
+    display: space-evenly;
+    
 }
 
 nav :hover {
@@ -210,8 +212,19 @@ padding: 5%;
 
 .videotext {
     font-family: 'poppins';
-    font-size: 16pt;
+    font-size: 18pt;
     padding-top: 7%;
+    font-weight: 700;
+}
+
+.videotext2 {
+    text-align: right;
+    font-family: 'poppins';
+    font-size: 16px;
+}
+
+.row10 {
+    align-items: baseline;
 }
 
 @media (min-width: 1200px) {
