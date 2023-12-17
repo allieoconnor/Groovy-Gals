@@ -207,7 +207,6 @@ display: flex;
 margin-left: auto;
 margin-right: auto;
 padding: 5%;
-
 }
 
 .videotext {
@@ -218,14 +217,13 @@ padding: 5%;
 }
 
 .videotext2 {
-    text-align: right;
+    text-align: left;
     font-family: 'poppins';
     font-size: 16px;
+    max-width: 45%;
+    
 }
 
-.row10 {
-    align-items: baseline;
-}
 
 @media (min-width: 1200px) {
 
@@ -235,5 +233,4 @@ padding: 5%;
     .artiststatement {
         max-width: 50%;  
     }
-
 }
