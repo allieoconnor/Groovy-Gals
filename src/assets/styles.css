@@ -56,9 +56,8 @@ h1 {
     font-family: 'Poppins', sans-serif;
     text-align: center;
     color: #7c2776;
-    padding-top: 15px;
     padding-bottom: 15px;
-    padding-top: 10%;
+    padding-top: 13%;
 }
 
 .Explore {
@@ -96,15 +95,16 @@ figcaption {
 
 .row5 figcaption {
     font-family: 'Poppins';
-    font-size: 23px;  
+    font-size: 25px;  
     padding-top: 2%;
     padding-bottom: 0;
     text-align: center;
-    font-weight: 700;
+    color: #6296A3;
 }
 
-ol {
+li {
     max-width: 800px;
+    font-size: 18px;
 }
 .row5 {
     display: flex;
@@ -159,7 +159,8 @@ ol {
    align-items: center;
    line-height: 1.2cm;
    padding-bottom: 2%;
-   font-size: 16pt;
+   font-size: 18pt;
+   
 }
 .figcaption3{
 text-align: center;
@@ -211,15 +212,15 @@ padding: 5%;
 
 .videotext {
     font-family: 'poppins';
-    font-size: 18pt;
+    font-size: 25pt;
     padding-top: 7%;
-    font-weight: 700;
+    color: #6296A3;
 }
 
 .videotext2 {
     text-align: left;
     font-family: 'poppins';
-    font-size: 16px;
+    font-size: 18px;
     max-width: 45%;
     
 }
